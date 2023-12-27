@@ -1,3 +1,5 @@
+If you want to get relevant report, PPT and detailed guideline, please contact author: 1716207520@qq.com.
+
 This project is build based on pyspark & parallel and divided into 3 parts - obtain data of OpenRice, data transformation, data visulization.
 1. Obtain data from OpenRice
    
