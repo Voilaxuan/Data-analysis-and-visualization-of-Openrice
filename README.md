@@ -1,3 +1,5 @@
+如欲获取相关报告、PPT及详细指南，请联系作者:1716207520@qq.com。
+
 If you want to get relevant report, PPT and detailed guideline, please contact author: 1716207520@qq.com.
 
 This project is build based on pyspark & parallel and divided into 3 parts - obtain data of OpenRice, data transformation, data visulization.
