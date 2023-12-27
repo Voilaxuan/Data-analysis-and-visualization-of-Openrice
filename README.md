@@ -16,6 +16,7 @@ This project is build based on pyspark & parallel and divided into 3 parts - obt
 (1) Word cloud
 
 ![6_en](https://github.com/Voilaxuan/Data-analysis-and-visualization-of-Openrice/assets/42267315/b8087417-5a2b-4c97-b177-9b4918bed514)
+
 (2) other chart
 
 ![bar](https://github.com/Voilaxuan/Data-analysis-and-visualization-of-Openrice/assets/42267315/df9dbb35-ba09-4dd1-b9da-71dfb789158e)
