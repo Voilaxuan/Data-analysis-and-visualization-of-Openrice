@@ -17,9 +17,13 @@ This project is build based on pyspark & parallel and divided into 3 parts - obt
 ![6_en](https://github.com/Voilaxuan/Data-analysis-and-visualization-of-Openrice/assets/42267315/b8087417-5a2b-4c97-b177-9b4918bed514)
 (2) other chart
 ![bar](https://github.com/Voilaxuan/Data-analysis-and-visualization-of-Openrice/assets/42267315/df9dbb35-ba09-4dd1-b9da-71dfb789158e)
+
 ![box](https://github.com/Voilaxuan/Data-analysis-and-visualization-of-Openrice/assets/42267315/dbf41fc1-91b9-4c5f-83e8-279aa2cd7429)
+
 ![Pair](https://github.com/Voilaxuan/Data-analysis-and-visualization-of-Openrice/assets/42267315/fb594db8-ac1e-42aa-ae93-70d31cdca205)
+
 ![groupbar2](https://github.com/Voilaxuan/Data-analysis-and-visualization-of-Openrice/assets/42267315/0c31dc58-90e4-4ed9-be9c-71a0f83ab210)
+
 ![Scatter_Plot2](https://github.com/Voilaxuan/Data-analysis-and-visualization-of-Openrice/assets/42267315/4130012f-7690-447a-b318-e9706dae7112)
 
 
