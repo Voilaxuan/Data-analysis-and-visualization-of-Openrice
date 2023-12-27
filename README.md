@@ -1,5 +1,6 @@
 This project is build based on pyspark & parallel and divided into 3 parts - obtain data of OpenRice, data transformation, data visulization.
 1. Obtain data from OpenRice
+   
 (1) Run parallel_resautaurant.py in get_data folder and the data obtained are as follows which is saved in /dataset/data.csv:
 ![1](https://github.com/Voilaxuan/Data-analysis-and-visualization-of-Openrice/assets/42267315/5aae4790-3ade-4e76-90e2-b59283d650e7)
 
