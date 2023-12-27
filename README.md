@@ -8,12 +8,15 @@ This project is build based on pyspark & parallel and divided into 3 parts - obt
 <img width="480" alt="Picture1" src="https://github.com/Voilaxuan/Data-analysis-and-visualization-of-Openrice/assets/42267315/89157ef2-1ced-420c-8c69-1d11ba0cabe4">
 
 2. Data transformation
+
  (1) run call_google_map_api.py to get longitude and latitude of each restaurant.
+ 
  (2) run smile_rate.py to get applause rate of each restaurant.
+ 
  (3) run k-means.py to get clustering result.
 ![Picture1](https://github.com/Voilaxuan/Data-analysis-and-visualization-of-Openrice/assets/42267315/a0ff171b-bc68-4aea-aef5-95ffc84db9a8)
 
-3. Data visulization
+4. Data visulization
 (1) Word cloud
 
 ![6_en](https://github.com/Voilaxuan/Data-analysis-and-visualization-of-Openrice/assets/42267315/b8087417-5a2b-4c97-b177-9b4918bed514)
